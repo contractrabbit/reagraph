@@ -33,6 +33,9 @@
     "type": "git",
     "url": "git+https://github.com/reaviz/reagraph.git"
   },
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "react",
     "reactjs",
